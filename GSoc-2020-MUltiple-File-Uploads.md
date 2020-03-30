@@ -37,7 +37,7 @@ I have been learning introductory programming since 2016. I have a good understa
 
 **Python**: I have done various projects in Python involving various applications of Machine Learning and Deep Learning like Data analysis, Audio processing, Image segmentation and am very fluent in coding in Python.
 
-I have also taken Hands-on Session for Android with Kotlin for 3 days where I have covered introductory programming with Kotlin and developed some Android apps with Kotlin. Here is the Session plan that I have used ([Session](https://github.com/beinganonymous/Read-the-Docs-demo/raw/master/present.pdf)). Also, I have taken a Seminar on Git Workflow at my University.  
+I have also taken Hands-on Session for Android with Kotlin for 3 days where I have covered introductory programming with Kotlin and developed some Android apps with Kotlin. Here is the Session plan that I have used ([Session](https://github.com/beinganonymous/GSoC-2020-Project-Proposal/raw/master/present.pdf)). Also, I have taken a Seminar on Git Workflow at my University.  
 
 # Proposed summer project
 ----------
@@ -273,11 +273,11 @@ https://github.com/mit-cml/appinventor-sources/pull/2116
 ## **Challenge 1: Creating a non-trivial app**
 1. **Expense Tracker** :
     The App assists users keep track of their day-to-day expenses by managing their incomes, expenses, and review their balances at any time.
-    [AIA](https://github.com/beinganonymous/Read-the-Docs-demo/raw/master/ExpenseTracker%20(1).aia) | [APK](https://github.com/beinganonymous/Read-the-Docs-demo/raw/master/ExpenseTracker.apk)
+    [AIA](https://github.com/beinganonymous/GSoC-2020-Project-Proposal/raw/master/ExpenseTracker%20(1).aia) | [APK](https://github.com/beinganonymous/GSoC-2020-Project-Proposal/raw/master/ExpenseTracker.apk)
     
 2. **Russian Roulette :**
     It is a game based on Russian Roulette. In this case, we have a revolver for 6 bullets. First Reload revolver putting a single bullet and rotating the drum. The bullet will be located randomly in one of the six sites. Then let 's pressing randomly the different buttons. If the number instead of the bullet matches the number of the button pressed, the screen turns red.
-    [AIA](https://github.com/beinganonymous/Read-the-Docs-demo/raw/master/russian_roulette%20(1).aia) | [APK](https://github.com/beinganonymous/Read-the-Docs-demo/raw/master/russian_roulette%20(1).apk)
+    [AIA](https://github.com/beinganonymous/GSoC-2020-Project-Proposal/raw/master/russian_roulette%20(1).aia) | [APK](https://github.com/beinganonymous/GSoC-2020-Project-Proposal/raw/master/russian_roulette%20(1).apk)
 
 
 ## **Challenge 2:Design challenge -- Enhancing the Camera operation**
