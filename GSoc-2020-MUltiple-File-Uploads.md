@@ -246,7 +246,7 @@ I have contributed to the various issues on the MIT App Inventor Project. While 
 
 | **Issue Number**                                                    | **Description**                                      | **Status** |
 | ------------------------------------------------------------------- | ---------------------------------------------------- | ---------- |
-| [#2071](https://github.com/mit-cml/appinventor-sources/issues/2071) | Type name to delete project/screen                   | *Open*     |
+| [#2071](https://github.com/mit-cml/appinventor-sources/issues/2071) | Type name to delete project/screen                   | *Closed*     |
 | [#2107](https://github.com/mit-cml/appinventor-sources/issues/2107) | Move to Trash menu item changes to Delete from Trash | *Open*     |
 | [#2122](https://github.com/mit-cml/appinventor-sources/issues/2122) | Drag and Drop Support to upload files                | *Open*     |
 
@@ -254,7 +254,7 @@ I have contributed to the various issues on the MIT App Inventor Project. While 
 
 | **PR**<br>**Number**                                              | **Description**                                            | **Status** |
 | ----------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| [#2101](https://github.com/mit-cml/appinventor-sources/pull/2101) | Fixes Type name to delete project/screen                   | *Open*     |
+| [#2101](https://github.com/mit-cml/appinventor-sources/pull/2101) | Fixes Type name to delete project/screen                   | *Merged*     |
 | [#2116](https://github.com/mit-cml/appinventor-sources/pull/2116) | Fixes Move to Trash menu item changes to Delete from Trash | *Open*     |
 
 Pull Requests (other than MIT App Inventor) :
